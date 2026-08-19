@@ -1,0 +1,6 @@
+{
+  "name": "Live Like a Blue Zone",
+  "description": "An interactive single-player life simulation exploring longevity, community, purposeful daily choices, and urban design in a Blue-Zone-inspired village.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
